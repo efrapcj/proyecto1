@@ -1,6 +1,6 @@
 <%-- 
-    Document   : quienes
-    Created on : 18 abr. 2023, 20:54:55
+    Document   : servicios
+    Created on : 18 abr. 2023, 21:06:49
     Author     : SYSTEMSJE
 --%>
 
@@ -12,15 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Quienes somos </h1>
-        <p>
-
-        Aqui va un parrafo de con n letras  
-        </p>
-
-
-            
-        </ul>
+        <h1>Bienvenido a servicios</h1>
+        
         <%@include file="menu.jsp"%>
     </body>
 </html>

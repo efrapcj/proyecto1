@@ -9,15 +9,7 @@
     </head>
     <body>
         <h1>Pagina Principal</h1>
-        <ul>
-            <li> <a href="index.jsp">inicio</a></li>
-            <li><a href="quienes.jsp">quienes somos</a></li>
-            <li>Buscar</li>
-             <li>contactos</li>
-            
-        </ul>
-
-        
+<%@include file="menu.jsp"%>
         
     </body>
 </html>
