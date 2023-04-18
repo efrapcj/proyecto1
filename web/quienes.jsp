@@ -1,4 +1,8 @@
-
+<%-- 
+    Document   : quienes
+    Created on : 18 abr. 2023, 20:54:55
+    Author     : SYSTEMSJE
+--%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -8,16 +12,15 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Pagina Principal</h1>
-        <ul>
-            <li> <a href="index.jsp">inicio</a></li>
-            <li><a href="quienes.jsp">quienes somos</a></li>
-            <li>Buscar</li>
-             <li>contactos</li>
-            
-        </ul>
+        <h1>Quienes somos </h1>
+        <p>
 
         
         
+        
+        
+        
+        
+        </p>
     </body>
 </html>
